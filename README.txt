@@ -1,3 +1,2 @@
 Created using Selenium API.
-Finished the chrome driver.
-Working on Mozilla web browser.
+In order to run this application, you need to download and install selenium.
